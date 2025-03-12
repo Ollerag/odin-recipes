@@ -3,14 +3,14 @@ body {
     margin: 30px;
     padding: 0px 20px;
     background-color: blanchedalmond;
-    border: 2px solid black;
+    border: 2px solid rgb(140, 98, 38);
     border-radius: 10px;
     display: block
 }
 
 .titre {
     text-align: center;
-    background-color: rgb(148, 148, 236);
+    background-color: rgb(242, 184, 98);
     margin-bottom: 0px;
 }
 
