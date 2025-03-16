@@ -74,7 +74,7 @@ ul li h3 {
 }
 
 .recipe-card a {
-    display: block;
+    display: inline-block;
     text-decoration: none;
     background-color: #fc9400;
     color: white;
