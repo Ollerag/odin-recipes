@@ -13,7 +13,6 @@ body {
 h1 {
     text-align: center;
     margin: 10px auto;
-    border: #fc9400 2px solid;
     padding: 5px;
 }
 
@@ -21,7 +20,6 @@ h2 {
     margin-top: 0;
     color: blueviolet;
     text-align: center;
-    border: #fc9400 2px solid;
     padding: 5px;
 }
 
@@ -44,7 +42,7 @@ ul {
     margin: 20px auto;
     background-color: white;
     border-radius: 5px;
-    border: #fc9400 2px solid;
+    border:#d17d00 solid 2px;
     display: flex;
     align-items: center;
     overflow: hidden;
