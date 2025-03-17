@@ -35,7 +35,8 @@ h2 {
 p {
     margin-top: 10px;
     margin-bottom: 10px;
-    text-align: center;
+    margin-left: 20px;
+    text-align: left;
 }
 
 .recipe-card {
@@ -51,6 +52,7 @@ p {
     width: 580px;
     vertical-align: top;
     display: inline-block;
+    text-align: center;
 }
 
 .recipe-card h3,
@@ -65,8 +67,6 @@ p {
 ul li {
     display: inline-block;
     margin-right: 10px;
-    margin-left: 20px;
-    margin-top: 10px;
 }
 
 ul li h3 {
@@ -75,16 +75,16 @@ ul li h3 {
 
 .recipe-card a {
     display: inline-block;
-    text-decoration: none;
     background-color: #fc9400;
     color: white;
-    padding: 10px;
-    margin: 0px 10px 10px 407px;
-    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: inline-block;
     vertical-align: top;
 }
 
 .recipe-info {
-    display: inline;
-    width: 380px;
+    display: inline-block;
+    width: auto;
+    margin-left: auto;
 }
